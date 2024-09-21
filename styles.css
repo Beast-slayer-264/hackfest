@@ -6,7 +6,7 @@ body {
     padding: 0;
 }
 header {
-    background-color: #4c82ec;
+    background-color: #AF734A;
     color: white;
     padding: 1em 0;
     text-align: center;
@@ -140,7 +140,7 @@ nav ul li a {
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #4CAF50;
+    color: #EFE0BB;
 }
 .hero-text h1{
 
@@ -183,7 +183,7 @@ nav ul li a {
     padding: 0.5em;
 }
 footer {
-    background-color: #4C82ec;
+    background-color: #AF734A;
     color: white;
     padding: 1em 0;
     text-align: center;
