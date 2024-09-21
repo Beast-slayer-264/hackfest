@@ -140,7 +140,7 @@ nav ul li a {
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #EFE0BB;
+    color: #3B271D;
 }
 .hero-text h1{
 
@@ -163,7 +163,7 @@ nav ul li a {
     justify-content: space-around;
 }
 .stat {
-    background: #e8f5e9;
+    background: #EFE0BB;
     border-radius: 8px;
     padding: 1em;
     text-align: center;
@@ -177,7 +177,7 @@ nav ul li a {
     padding: 0;
 }
 .tips li {
-    background: #e0f7fa;
+    background: #EFE0BB;
     border-radius: 8px;
     margin-bottom: 0.5em;
     padding: 0.5em;
